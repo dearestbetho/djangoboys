@@ -1,0 +1,123 @@
+
+<!-- saved from url=(0020)https://www.tes.com/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" async="" src="./jpt"></script><script type="text/javascript" async="" src="./jpt(1)"></script><script type="text/javascript" async="" src="./getjs.static.js.download"></script><style>body{margin:0 0 0 0;padding:0 0 0 0;height:100%;}</style></head><body><script>
+    
+
+
+    // TES VET970x250
+    var tagWidth = 970;
+    var tagHeight = 250;
+
+    var doNotChange = 'TES VET970x250';
+
+    var bids = [
+
+            {
+                bidder: 'appnexus',
+                params: {
+                    placementId: '12146339'
+                }
+            },
+
+            {
+                bidder: 'appnexus',
+                params: {
+                    placementId: '12734958'
+                }
+            },
+
+
+
+            {
+                bidder: 'rubicon',
+                params: {
+                    accountId: '15380',
+                    siteId: '110924',
+                    zoneId: '771980',
+                    sizes: [57]
+                }
+            },
+
+            {
+                bidder:'openx',
+                 params: {
+                        unit:'539480622',
+                        delDomain:'onscroll-d.openx.net'
+                        }
+                        }, 
+
+            {
+    bidder: 'pulsepoint',
+    params: {
+        cf: '970X250',
+        cp: '560961',
+        ct: '632705'
+    }
+}
+
+
+    ];
+
+    var bidTimeOut = 1000;
+
+    var passbackTagHtml =
+           '<di' + 'v id="539480612_INSERT_SLOT_ID_HERE" style="width:970px;height:250px;margin:0;padding:0">' +
+            '<nosc' + 'ript>' +
+            '<ifr' + 'ame id="5b48ce67e3" name="5b48ce67e3" src="//uk-ads.openx.net/w/1.0/afr?auid=539480612&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="970" height="250">' +
+            '<' + 'a href="//uk-ads.openx.net/w/1.0/rc?cs=5b48ce67e3&cb=INSERT_RANDOM_NUMBER_HERE" ><im' +
+            'g src="//uk-ads.openx.net/w/1.0/ai?auid=539480612&cs=5b48ce67e3&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></' +
+            'a></ifr' + 'ame></noscr' + 'ipt>' +
+            '</di' + 'v><scr' + 'ipt type="text/javascript">' +
+            'var OX_ads = OX_ads || [];' +
+            'OX_ads.push({' +
+            'slot_id: "539480612_INSERT_SLOT_ID_HERE",' +
+            'auid: "539480612"' +
+            '});' +
+            '</scr' + 'ipt> <scr' + 'ipt type="text/javascript" src="//uk-ads.openx.net/w/1.0/jstag"></scr' + 'ipt>';
+
+
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    pbjs.que.push(function() {
+        pbjs.enableAnalytics({
+            provider: 'ga',
+            options: {
+                global: 'ga', // <string> name of GA global. Default is 'ga'
+                enableDistribution: false,
+            }
+        });
+    });
+
+    pbjs.que.push(function() {
+        var adUnits = [{
+            code: doNotChange,
+            sizes: [[970, 250]],
+            bids: bids
+        }];
+
+        pbjs.addAdUnits(adUnits);
+
+        pbjs.requestBids({
+            timeout: bidTimeOut,
+            bidsBackHandler: function() {
+                var iframe = document.getElementById('postbid_if');
+                var iframeDoc = iframe.contentWindow.document;
+                var params = pbjs.getAdserverTargetingForAdUnitCode(doNotChange);
+
+                if (params && params['hb_adid']){
+                    pbjs.renderAd(iframeDoc, params['hb_adid']);
+                } else {
+                    iframe.width = tagWidth;
+                    iframe.height = tagHeight;
+                    iframeDoc.write(passbackTagHtml);
+                    iframeDoc.close();
+                }
+            }
+        });
+    });
+
+</script>
+
+<script type="text/javascript" src="./prebid.min.js.download" async=""></script>
+
+<iframe id="postbid_if" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="970" height="250" src="./saved_resource(5).html"></iframe><iframe id="10404fa86975961" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./async_usersync.html" style="border: 0px; display: none;"></iframe><iframe id="openx-pd" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./pd.html" name="openx-pd" style="border: 0px; display: none;"></iframe></body></html>

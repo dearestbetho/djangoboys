@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.utils import timezone
 from .models import Post
+from django.views.generic import TemplateView
 
 # Create your views here.
 def post_list(request):
@@ -8,4 +9,8 @@ def post_list(request):
     return render(request, 'blog/post_list.html', {'posts': posts})
 
 def home_page(request):
-    return render(request, 'blog/home_page.html', {})
+    return render(request, 'blog/home_page.html')
+
+class HomePageView(TemplateView):
+    template_name = "home_page.html"
+

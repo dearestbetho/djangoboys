@@ -2,7 +2,174 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12bbf25-c41e-4e3b-bbe3-11609cbcf481" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/1481103489249.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/1481733038574.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/1490952361546.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/20141003_1242PM_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/20160519_1034AM_desktop_Compass_logo_block_CMYK.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/20180504_311PM_desktop_1012484_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/2036009313310454" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/4mE5LDEd8-kbxBD8mKDrWA8jTCBS-_mfkDNCRJ1Zjhs.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/6766538461185255742" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/RQ7NiRXMcYA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/UH6TUt9n" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/account_version_check.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/adsct" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/adverts.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/analytics.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/anx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/appnexus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/appnexus(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/async_usersync" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/async_usersync(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/async_usersync.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/bat.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/behaviour-management-cpd-thumbnail_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/better_voice_thumbnail_approved_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/cm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/common-head-utils.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/csx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/da2e6c890e6e3636.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/etap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/f(1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/f(2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/f(3).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/f(4).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/f(5).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/f(6).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/f(7).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/f(8).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/f(9).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/fbevents.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/font-loader-2.0.13.2.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/fragment.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/gen_204" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/generic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/getjs.static.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/gpt.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/hero-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/hotjar-266940.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/img" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/inspire-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/it" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/jpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/jpt(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/jquery-3.3.1.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/l" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/logo(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/logo(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/mapuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/masthead.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/modules-5656fcbdd6d51afbdc19cd90486f0c7d.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/mwgt_3.6.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/mz-sync.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/mz.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/nag-footer-standalone.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/pd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/ping_match.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/pixel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/prebid.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/pubads_impl_205.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/pubads_impl_rendering_205.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/rd_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/react-16.1.1_react-dom-16.1.1_react-redux-5.0.6_redux-3.7.2_prop-types-15.6.0.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/render_post_ads_v1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/rz.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/saved_resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/saved_resource(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/saved_resource(2)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/saved_resource(3)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/saved_resource(4).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/saved_resource(5).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/saved_resource(6).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/saved_resource(7).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/sdk.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/sync" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/tag.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/tes-elements.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/tes-events-4.0.0.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/tes-events-sync-4.0.0.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/tes180511_22_hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/tes180511_44_hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/tess180511_12_hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/tess180511_13_hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/trk.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/uwt.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/vck.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home_page_files/widget-loader.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/home_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-datepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/themify-icons/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/themify-icons/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/themify-icons/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/themify-icons/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img_bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img_bg_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img_bg_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/google_map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.countTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.easypiechart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/magnific-popup-options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/modernizr-2.6.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/respond.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/home_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,35 +180,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2057">
-              <caret line="121" column="46" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -49,11 +192,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -61,11 +201,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="85">
               <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -73,10 +210,28 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_page.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/templates/home_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="100" column="83" selection-start-line="100" selection-start-column="83" selection-end-line="100" selection-end-column="83" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="n#style#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,26 +240,17 @@
       <file leaf-file-name="post_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="187">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="578">
+              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -119,32 +265,56 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>test</find>
+      <find>tesd</find>
+      <find>tesdotcom</find>
+      <find>home loaded</find>
+      <find>.css</find>
+      <find>home_page_files/saved_resource.html</find>
+      <find>resources</find>
+      <find>&lt;body</find>
+      <find>img</find>
+      <find>css</find>
+      <find>index</find>
+      <find>js</find>
+      <find>animated</find>
+      <find>dropdown</find>
+      <find>has-dropdown</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mysite/urls.py" />
         <option value="$PROJECT_DIR$/blog/models.py" />
         <option value="$PROJECT_DIR$/blog/admin.py" />
-        <option value="$PROJECT_DIR$/blog/views.py" />
-        <option value="$PROJECT_DIR$/blog/templates/blog/home_page.html" />
-        <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/blog/static/css/blog.css" />
-        <option value="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
-        <option value="$PROJECT_DIR$/mysite/settings.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/blog/static/css/main.css" />
+        <option value="$PROJECT_DIR$/blog/static/css/base.css" />
+        <option value="$PROJECT_DIR$/blog/static/css/style.css" />
+        <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/blog/views.py" />
+        <option value="$PROJECT_DIR$/mysite/urls.py" />
+        <option value="$PROJECT_DIR$/blog/urls.py" />
+        <option value="$PROJECT_DIR$/blog/templates/blog/home_page.html" />
+        <option value="$PROJECT_DIR$/blog/templates/home_page.html" />
+        <option value="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="239" />
-    <option name="y" value="39" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="434" />
     <option name="width" value="868" />
     <option name="height" value="725" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -157,6 +327,35 @@
               <item name="djangoboys" type="b2602c69:ProjectViewProjectNode" />
               <item name="djangoboys" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="djangoboys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoboys" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoboys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoboys" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoboys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoboys" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoboys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoboys" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoboys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoboys" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -167,6 +366,14 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RAY\djangoboys\djangoboys\blog\templates" />
+      <recent name="C:\Users\RAY\djangoboys\djangoboys" />
+      <recent name="C:\Users\RAY\djangoboys\djangoboys\blog\static\css" />
+      <recent name="C:\Users\RAY\djangoboys\djangoboys\blog\templates\blog" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -194,17 +401,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="239" y="39" width="868" height="725" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3060241" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11532738" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.13605443" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.13179572" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -220,6 +426,79 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/home_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="100" column="83" lean-forward="true" selection-start-line="100" selection-start-column="83" selection-end-line="100" selection-end-column="83" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2091">
@@ -231,9 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -241,9 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -251,9 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -261,9 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -271,9 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -302,9 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -312,9 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -329,9 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -339,9 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -349,9 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -373,9 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -383,9 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -400,9 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -410,9 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -420,9 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -433,57 +667,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/home_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="6" column="75" lean-forward="true" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -491,30 +678,108 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/js/fragment.js" />
+    <entry file="file://$PROJECT_DIR$/blog/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="1467" column="42" lean-forward="true" selection-start-line="1467" selection-start-column="42" selection-end-line="1468" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2057">
-          <caret line="121" column="46" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
+        <state relative-caret-position="578">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/home_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="70" column="22" lean-forward="true" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1636">
+          <caret line="149" column="28" selection-start-line="149" selection-start-column="16" selection-end-line="149" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/themify-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5321">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/home_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="100" column="83" selection-start-line="100" selection-start-column="83" selection-end-line="100" selection-end-column="83" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

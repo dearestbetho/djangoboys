@@ -1,0 +1,13 @@
+!function(){function createPanel(){function destroyPanel(evt){evt.preventDefault()
+var topLevelDomain=window.location.hostname.split(".")
+topLevelDomain.shift(),topLevelDomain=topLevelDomain.join("."),Cookies.set(COOKIENAME,"true",{domain:topLevelDomain,expires:"01/01/2030"}),isSmallScreen?(document.documentElement.style.paddingTop=currentBodyPadding,wrapper.parentNode.removeChild(wrapper)):(wrapper.style.transform="translateY(100%)",setTimeout(function(){wrapper.parentNode.removeChild(wrapper)},600))}if(!document.querySelector("."+HOOK_CLASS)){var wrapper=document.createElement("div"),isSmallScreen=Boolean(document.documentElement.clientWidth<600),anchoredTo=isSmallScreen?"top":"bottom"
+wrapper.className=PANEL_CLASSES,wrapper.style.backgroundColor="#44A4F6",wrapper.style.position="fixed",wrapper.style[anchoredTo]="0",wrapper.style.width="100%",wrapper.style.zIndex="101",wrapper.style.transition="transform ease-out 200ms"
+var info=document.createElement("span")
+info.className=INFO_CLASSES,info.innerHTML=isSmallScreen?COOKIEINFO_SHORT:COOKIEINFO,wrapper.appendChild(info)
+var close=document.createElement("span")
+if(close.innerHTML='<span class="hidden-xs"><a href="#" style="color:white;" class="'+CLOSE_CLASSES+'">Close</a></span><div class="visible-xs padding-top-sm"><span class="'+CLOSE_CLASSES_MOBILE+'">Close</span></div>',wrapper.appendChild(close),document.body.insertBefore(wrapper,document.body.firstChild),isSmallScreen){var wrapperHeight=wrapper.offsetHeight,currentBodyPadding=window.getComputedStyle(document.documentElement,null).getPropertyValue("padding-top")
+document.documentElement.style.paddingTop=wrapperHeight+"px"}close.addEventListener("click",destroyPanel)}}var COOKIENAME="TEScookieLawCookie",COOKIEINFO='Welcome, this site uses cookies. <a href="https://www.tes.com/us/privacy-policy" style="color:white;text-decoration: underline">Read our privacy policy</a>',COOKIEINFO_SHORT='Welcome, this site uses <a href="https://www.tes.com/us/privacy-policy" style="color:white;text-decoration: underline">cookies</a>.',HOOK_CLASS="cookielaw-panel",PANEL_CLASSES=HOOK_CLASS+" text-center padding-top-xs padding-bottom-xs padding-left-lg padding-right-lg",INFO_CLASSES="text--white padding-right-sm padding-left-sm",CLOSE_CLASSES="padding-left-lg",CLOSE_CLASSES_MOBILE="tes-btn tes-btn--outline tes-btn--block"
+if(Cookies){var alreadyLoggedIn=Cookies.get("TESCookieUser"),cookieLawCookie=Cookies.get(COOKIENAME)
+!("gb"===(Cookies.get("siteCountry")||"gb").toLowerCase())||cookieLawCookie||alreadyLoggedIn||window.addEventListener("load",function load(){window.removeEventListener("load",load,!1),createPanel()})}}()
+
+//# sourceMappingURL=masthead.js.map
